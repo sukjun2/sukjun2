@@ -32,5 +32,4 @@
 </p>
 
 <img src="http://mazandi.herokuapp.com/api?handle={sukjun2}&theme=warm"/>
-<img src="http://mazandi.herokuapp.com/api?handle={coding2}&theme=warm"/>
-<img src="http://mazandi.herokuapp.com/api?handle={codingclass}&theme=warm"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukjun2)](https://github.com/anuraghazra/github-readme-stats)
