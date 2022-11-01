@@ -32,4 +32,4 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukjun2)](https://github.com/sukjun2/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukjun2)](https://github.com/sukjun2/github-readme-stats)
