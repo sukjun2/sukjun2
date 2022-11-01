@@ -32,3 +32,5 @@
 </p>
 
 <img src="http://mazandi.herokuapp.com/api?handle={sukjun2}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle={coding2}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle={codingclass}&theme=warm"/>
