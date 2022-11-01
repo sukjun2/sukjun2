@@ -32,4 +32,4 @@
 </p>
 
 <img src="http://mazandi.herokuapp.com/api?handle={sukjun2}&theme=warm"/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukjun2)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukjun2)](https://github.com/sukjun2/github-readme-stats)
