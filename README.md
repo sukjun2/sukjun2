@@ -27,6 +27,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukjun2)](https://github.com/sukjun2/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukjun2)](https://github.com/sukjun2/github-readme-stats)
+<p>🏆 Baekjoon solved rank 🏆</p>	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sukjun2)](https://solved.ac/sukjun2)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 </div>
