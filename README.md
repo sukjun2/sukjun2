@@ -1,6 +1,5 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=sukjun2%20Github!&fontSize=90" />	
-</div>
 <div align=center>
 <h3>📚 Tech Stack 📚</h3>
 <p>
@@ -36,3 +35,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukjun2)](https://github.com/sukjun2/github-readme-stats)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+</div>
