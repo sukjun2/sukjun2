@@ -31,11 +31,11 @@
 	
 	
 ### 💻리액트/뷰 수업 예제💻
-	<a href="">리액트 사이트1()</a>
-	<a href="">뷰 사이트1()</a>
-	<br>
-	<a href="">리액트 API 사이트2()</a>
-	<a href="">뷰 API 사이트2()</a>
+리액트 사이트1 : https://sukjun2-reactclass.netlify.app
+뷰 사이트1 : https://vueclass55.web.app/
+
+리액트 API 사이트2 : https://sukjun2-reactapi.netlify.app/
+뷰 API 사이트2 : https://vueapi55.web.app/
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 </div>
